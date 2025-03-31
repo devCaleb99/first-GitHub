@@ -1,0 +1,32 @@
+.bi-facebook:hover {
+    color: red !important;
+
+}
+.carousel-caption {
+    margin-bottom: 25%;
+
+}
+.button {
+    border: 3px solid black;
+}
+.button:hover {
+    background-color: black;
+    color: white;
+}
+
+.first-container {
+    margin-bottom: 30px !important;
+}
+
+.second-container {
+    background-image: url(/images/wood.fr.jpg);
+    height: 70vh;
+    
+}
+.button-second {
+    border: 3px solid white;
+}
+.button-second:hover {
+    background-color: white !important;
+    color: black !important;
+}
